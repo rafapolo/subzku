@@ -1,0 +1,7 @@
+.DS_Store
+# visitor access logs — contain IP addresses, never publish
+sub_access.txt
+ips_count.txt
+report.html
+# copies adapted for extrapolo.com/projeto
+*.projeto.*
